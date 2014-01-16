@@ -15,7 +15,7 @@ languages =
   "be": "Belarusian",
   "bg": "Bulgarian",
   "ca": "Catalan",
-  "zh-CN": "Simplified Chinese",
+  "zh-CN": "zh",
   "zh-TW": "Traditional Chinese",
   "hr": "Croatian",
   "cs": "Czech",
